@@ -180,5 +180,5 @@ P.S. Сразу отмечу, что для корректной работы д
   
   ## Ссылки на документацию  
   
-    - m3-core: https://m3-core.readthedocs.io/ru/latest/  
-    - objectpack: https://objectpack.readthedocs.io/ru/latest/
+  [m3-core](https://m3-core.readthedocs.io/ru/latest/)  
+  [objectpack](https://objectpack.readthedocs.io/ru/latest/)
